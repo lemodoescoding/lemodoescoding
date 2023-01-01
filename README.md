@@ -3,7 +3,7 @@
   
   <h1>
     Hi There
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
   </h1>
 </div>
 - some text, plan is to make this readme profile more interesting
