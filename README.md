@@ -8,3 +8,9 @@
 </div>
 
 ---
+
+### :hammer_and_wrench: Language and Tools :
+
+<div>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40">&nbsp
+</div>
