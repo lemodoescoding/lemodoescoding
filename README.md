@@ -16,8 +16,9 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40">&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" title="JS" width="40" height="40">&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40">&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40">&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">&nbsp
+  	<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40">&nbsp
+  	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">&nbsp -->
+	<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim/Nvim" title="Vim/Nvim" width="40" height="40">&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  alt="Github" title="Github" width="40" height="40">&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40">&nbsp 
 </div>
