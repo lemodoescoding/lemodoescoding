@@ -1,11 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-  
-  <h1>
-    Hi There!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
-    <img src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white" width="45">
-  </h1>
+    <h1>Hi There!</h1>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+    
+    <div id="badges">
+        <a href="github.com/lemodoescoding">
+            <img src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white" alt="Github">
+        </a>
+    </div>
 </div>
 
 ---
