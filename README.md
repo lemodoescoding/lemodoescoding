@@ -1,12 +1,13 @@
 <div id="header" align="center">
     <h1>Hi There!</h1>
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
     
-    <div id="badges">
-        <a href="github.com/lemodoescoding">
-            <img src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white" alt="Github">
-        </a>
-    </div>
+    
+</div>
+<div id="badges">
+    <a href="github.com/lemodoescoding">
+        <img src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white" alt="Github">
+    </a>
 </div>
 
 ---
