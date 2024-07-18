@@ -4,9 +4,12 @@
     
     
 </div>
-<div id="badges">
-    <a href="github.com/lemodoescoding">
-        <img src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white" alt="Github">
+<div id="badges" align="center">
+    <a href="https://github.com/lemodoescoding">
+        <img src="https://img.shields.io/badge/Github-1B1B1B?logo=github&logoColor=white&style=for-the-badge" alt="Github">
+    </a>
+    <a href="https://x.com/gglb_">
+        <img src="https://img.shields.io/badge/Twitter-blue?logo=x&logoColor=white&style=for-the-badge" alt="Github">
     </a>
 </div>
 
