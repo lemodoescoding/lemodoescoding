@@ -5,11 +5,10 @@
     
 </div>
 <div id="badges" align="center">
-    <a href="https://github.com/lemodoescoding">
+    <a href="https://github.com/lemodoescoding" target="_blank">
         <img src="https://img.shields.io/badge/Github-1B1B1B?logo=github&logoColor=white&style=for-the-badge" alt="Github">
-    </a>
-    <a href="https://x.com/gglb_">
-        <img src="https://img.shields.io/badge/Twitter-blue?logo=x&logoColor=white&style=for-the-badge" alt="Github">
+    </a><a href="https://x.com/gglb__" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-blue?logo=x&logoColor=white&style=for-the-badge" alt="X">
     </a>
 </div>
 
