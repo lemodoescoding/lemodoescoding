@@ -18,7 +18,7 @@
 <div align="center">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40">&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40">&nbsp
-	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" title="JS" width="40" height="40">&nbsp
-	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40">&nbsp 
-	<img src="[https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg](https://github.com/onemarc/tech-icons/blob/main/icons/nodejs-dark.svg)" alt="NodeJs" title="NodeJS" width="60" height="60">&nbsp
+	<img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" alt="JS" title="JS" width="40" height="40">&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.sv" alt="Git" title="Git" width="40" height="40">&nbsp 
+	<img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs-dark.svg" alt="NodeJs" title="NodeJS" width="40">&nbsp
 </div>
