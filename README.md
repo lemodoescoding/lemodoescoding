@@ -16,8 +16,6 @@
 ### :hammer_and_wrench: Language and Tools :
 
 <div align="center">
-	<img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" alt="HTML5" title="HTML5" width="60">&nbsp
-	<img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" alt="CSS" title="CSS" width="60">&nbsp
 	<img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" alt="JS" title="JS" width="60">&nbsp
 	<img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs-dark.svg" alt="NodeJs" title="NodeJS" width="60">&nbsp
 	<img src="https://github.com/onemarc/tech-icons/blob/main/icons/expressjs-dark.svg" alt="ExpressJs" title="ExpressJS" width="60">&nbsp
