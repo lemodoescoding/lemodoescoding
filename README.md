@@ -18,4 +18,5 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40">&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40">&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" title="Github" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="40" height="40">
 </div>
