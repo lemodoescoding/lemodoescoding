@@ -22,5 +22,5 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40">&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" title="Github" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim" title="Neovim" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim" title="Neovim" width="30" height="40">
 </div>
