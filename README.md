@@ -22,5 +22,9 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40">&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" title="Github" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="40" height="40">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="30" height="40">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" title="Go" width="30" height="40">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="30" height="40">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="30" height="40">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim" title="Neovim" width="30" height="40">
 </div>
