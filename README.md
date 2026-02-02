@@ -32,6 +32,7 @@
 <div align="center">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40">&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" title="Github" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker" title="Docker" width="40" height="40">&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40">
     <img src="./assets/ghidra-64.png" alt="Ghidra" title="Ghidra" width="40" height="40">
     <img src="./assets/burpsuite-64.png" alt="BurpSuite" title="Burpsuite" width="40" height="40">
