@@ -28,5 +28,9 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="40" height="40">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim" title="Neovim" width="40" height="40">
+    <img src="./assets/ghidra-64.png" alt="Ghidra" title="Ghidra" width="40" height="40">
+    <img src="./assets/burpsuite-64.png" alt="BurpSuite" title="Burpsuite" width="40" height="40">
+    <img src="./assets/gdb.png" alt="GNU Debugger" title="GNU Debugger" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim" title="Neovim" width="40" height="40">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim" title="Vim" width="40" height="40">
 </div>
