@@ -21,6 +21,7 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJS" title="NodeJS" width="40" height="40">&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40">&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="40">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" title="Go" width="40" height="40">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="40" height="40">
