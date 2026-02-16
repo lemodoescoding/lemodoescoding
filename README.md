@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
-<img width="435" height="117" alt="image" src="https://github.com/user-attachments/assets/98fcbc9a-eb00-417f-bdd3-fe296a5c4e01" />
+<!-- <img width="435" height="117" alt="image" src="https://github.com/user-attachments/assets/98fcbc9a-eb00-417f-bdd3-fe296a5c4e01" /> -->
 
  <div id="badges">
     <a href="https://github.com/lemodoescoding" target="_blank">
