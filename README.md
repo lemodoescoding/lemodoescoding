@@ -50,5 +50,5 @@
 <p align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt="Fedora Workstation" title="Fedora Workstation" width="40" height="40">&nbsp;
     <img src="./assets/I3_window_manager_logo.png" alt="i3 WM" title="i3 WM" width="40" height="40">&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X11.svg" alt="X11" title="X11" width="40" height="40">&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/X11.svg/250px-X11.svg.png" alt="X11" title="X11" width="40" height="40">&nbsp;
 </p>
