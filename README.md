@@ -25,6 +25,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="40">&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40">&nbsp;
+	<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" title="PostgreSQL" width="40" height="40">&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" title="Go" width="40" height="40">&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40">&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="40" height="40">&nbsp;
