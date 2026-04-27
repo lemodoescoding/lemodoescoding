@@ -16,7 +16,7 @@
 
 ### 🗨️ Language :
 
-<div align="center">
+<div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40">&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40">&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" title="JS" width="40" height="40">&nbsp
@@ -33,7 +33,7 @@
 
 ### 🛠️ Tools :
 
-<div align="center">
+<div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40">&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" title="Github" width="40" height="40">&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker" title="Docker" width="40" height="40">&nbsp
@@ -42,13 +42,13 @@
     <img src="./assets/burpsuite-64.png" alt="BurpSuite" title="Burpsuite" width="40" height="40">&nbsp
     <img src="./assets/gdb.png" alt="GNU Debugger" title="GNU Debugger" width="40" height="40">&nbsp
     <img src="./assets/Wireshark_icon_new.png" alt="Wireshark" title="Wireshark" width="40" height="40">&nbsp
-	<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim" title="Neovim" width="40" height="40">&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim" title="Vim" width="40" height="40">&nbsp
+	<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim" title="Neovim" width="35" height="35">&nbsp
 </div>
 
 ### 💻 Daily Environment :
 
-<div align="center">
+<div>
     <img src="./assets/I3_window_manager_logo.png" alt="i3 WM" title="i3 WM" width="40" height="40">&nbsp
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/X11.svg/330px-X11.svg.png" alt="X11" title="X11" width="40" height="40">&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt="Fedora Workstation" title="Fedora Workstation" width="40" height="40">&nbsp
