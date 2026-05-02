@@ -9,6 +9,9 @@
 <a href="https://x.com/gglb__" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-blue?logo=x&logoColor=white&style=for-the-badge" alt="X">
     </a>
+	 <a href="https://www.linkedin.com/in/ahmadsatrioarrohman/" target="_blank">
+		 <img src="https://img.shields.io/badge/Linkedin-black?logo=linkedin&logoColor=blue&style=for-the-badge" alt="Linkedin">
+	 </a>
 </div>   
 
 <h3>gglb - lemodoescoding</h3>
