@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 <!-- <img width="435" height="117" alt="image" src="https://github.com/user-attachments/assets/98fcbc9a-eb00-417f-bdd3-fe296a5c4e01" /> -->
 
- <div id="badges">
+<div id="badges">
 <a href="https://github.com/lemodoescoding" target="_blank">
         <img src="https://img.shields.io/badge/Github-1B1B1B?logo=github&logoColor=white&style=for-the-badge" alt="Github">
 </a>
@@ -12,9 +12,7 @@
 <a href="https://www.linkedin.com/in/ahmadsatrioarrohman/" target="_blank">
 		 <img src="https://img.shields.io/badge/Linkedin-black?logo=linkedin&logoColor=blue&style=for-the-badge" alt="Linkedin">
 </a>
-</div>   
-
-<h3>gglb - lemodoescoding</h3>
+</div>
 </div>
 
 ---
