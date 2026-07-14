@@ -56,3 +56,8 @@
     <img src="./assets/I3_window_manager_logo.png" alt="i3 WM" title="i3 WM" width="40" height="40">&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/X11.svg/250px-X11.svg.png" alt="X11" title="X11" width="40" height="40">&nbsp;
 </p>
+
+### 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=lemodoescoding&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemodoescoding&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top languages" />
