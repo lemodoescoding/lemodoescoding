@@ -49,11 +49,6 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original-wordmark.svg" alt="Neovim" title="Neovim" width="35" height="35">&nbsp;
 </div>
 
-### Misc.
-
-Original Frostnova Art (Avatar)
-[pixiv url](https://www.pixiv.net/en/artworks/80873903) - [kumachi](https://www.pixiv.net/en/users/50456987)
-
 ### 💻 Daily Environment :
 
 <p align="left">
@@ -61,3 +56,8 @@ Original Frostnova Art (Avatar)
     <img src="./assets/I3_window_manager_logo.png" alt="i3 WM" title="i3 WM" width="40" height="40">&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/X11.svg/250px-X11.svg.png" alt="X11" title="X11" width="40" height="40">&nbsp;
 </p>
+
+### Misc.
+
+Original Frostnova Art (Avatar)
+[pixiv url](https://www.pixiv.net/en/artworks/80873903) - [kumachi](https://www.pixiv.net/en/users/50456987)
